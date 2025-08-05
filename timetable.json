@@ -1,0 +1,618 @@
+[
+  {
+    "day": "Monday",
+    "time": "1:00-2:00",
+    "subject": "AI",
+    "faculty": "CST@ldce.ac.in",
+    "division": "A",
+    "room": "216A",
+    "type": "Lecture"
+  },
+  {
+    "day": "Monday",
+    "time": "2:00-3:00",
+    "subject": "CD",
+    "faculty": "PVP@ldce.ac.in",
+    "division": "A",
+    "room": "216A",
+    "type": "Lecture"
+  },
+  {
+    "day": "Monday",
+    "time": "3:15-4:15",
+    "subject": "DF",
+    "faculty": "HBP@ldce.ac.in",
+    "division": "A",
+    "room": "216A",
+    "type": "Lecture"
+  },
+  {
+    "day": "Tuesday",
+    "time": "1:00-2:00",
+    "subject": "CC",
+    "faculty": "CST@ldce.ac.in",
+    "division": "A",
+    "room": "216A",
+    "type": "Lecture"
+  },
+  {
+    "day": "Tuesday",
+    "time": "2:00-3:00",
+    "subject": "CD",
+    "faculty": "PVP@ldce.ac.in",
+    "division": "A",
+    "room": "216A",
+    "type": "Lecture"
+  },
+  {
+    "day": "Tuesday",
+    "time": "3:15-4:15",
+    "subject": "IS",
+    "faculty": "KMP@ldce.ac.in",
+    "division": "A",
+    "room": "216A",
+    "type": "Lecture"
+  },
+  {
+    "day": "Wednesday",
+    "time": "10:30-11:30",
+    "subject": "CD",
+    "faculty": "PVP@ldce.ac.in",
+    "division": "A",
+    "room": "216A",
+    "type": "Lecture"
+  },
+  {
+    "day": "Wednesday",
+    "time": "11:30-12:30",
+    "subject": "CC",
+    "faculty": "TAC@ldce.ac.in",
+    "division": "A",
+    "room": "216A",
+    "type": "Lecture"
+  },
+  {
+    "day": "Wednesday",
+    "time": "1:00-2:00",
+    "subject": "AI",
+    "faculty": "CST@ldce.ac.in",
+    "division": "A",
+    "room": "216A",
+    "type": "Lecture"
+  },
+  {
+    "day": "Wednesday",
+    "time": "2:00-3:00",
+    "subject": "IS",
+    "faculty": "SRM@ldce.ac.in",
+    "division": "A",
+    "room": "216A",
+    "type": "Lecture"
+  },
+  {
+    "day": "Thursday",
+    "time": "1:00-2:00",
+    "subject": "AI",
+    "faculty": "PVP@ldce.ac.in",
+    "division": "A",
+    "room": "216A",
+    "type": "Lecture"
+  },
+  {
+    "day": "Thursday",
+    "time": "2:00-3:00",
+    "subject": "CC",
+    "faculty": "TAC@ldce.ac.in",
+    "division": "A",
+    "room": "216A",
+    "type": "Lecture"
+  },
+  {
+    "day": "Thursday",
+    "time": "3:15-4:15",
+    "subject": "ML",
+    "faculty": "BAO@ldce.ac.in",
+    "division": "A",
+    "room": "216A",
+    "type": "Lecture"
+  },
+  {
+    "day": "Thursday",
+    "time": "4:15-5:15",
+    "subject": "ML",
+    "faculty": "PRD@ldce.ac.in",
+    "division": "A",
+    "room": "216A",
+    "type": "Lecture"
+  },
+  {
+    "day": "Friday",
+    "time": "11:30-12:30",
+    "subject": "IS",
+    "faculty": "KMP@ldce.ac.in",
+    "division": "A",
+    "room": "216A",
+    "type": "Lecture"
+  },
+  {
+    "day": "Friday",
+    "time": "1:00-2:00",
+    "subject": "DF",
+    "faculty": "AVS@ldce.ac.in",
+    "division": "A",
+    "room": "216A",
+    "type": "Lecture"
+  },
+  {
+    "day": "Friday",
+    "time": "2:00-3:00",
+    "subject": "ML",
+    "faculty": "BAO@ldce.ac.in",
+    "division": "A",
+    "room": "216A",
+    "type": "Lecture"
+  },
+  {
+    "day": "Monday",
+    "time": "10:30-11:30",
+    "subject": "CC",
+    "faculty": "TAC@ldce.ac.in",
+    "division": "B",
+    "room": "216B",
+    "type": "Lecture"
+  },
+  {
+    "day": "Monday",
+    "time": "11:30-12:30",
+    "subject": "DF",
+    "faculty": "AVS@ldce.ac.in",
+    "division": "B",
+    "room": "216B",
+    "type": "Lecture"
+  },
+  {
+    "day": "Tuesday",
+    "time": "2:00-3:00",
+    "subject": "CC",
+    "faculty": "CST@ldce.ac.in",
+    "division": "B",
+    "room": "216B",
+    "type": "Lecture"
+  },
+  {
+    "day": "Tuesday",
+    "time": "3:15-4:15",
+    "subject": "DF",
+    "faculty": "HBP@ldce.ac.in",
+    "division": "B",
+    "room": "216B",
+    "type": "Lecture"
+  },
+  {
+    "day": "Tuesday",
+    "time": "4:15-5:15",
+    "subject": "CD",
+    "faculty": "PDS@ldce.ac.in",
+    "division": "B",
+    "room": "216B",
+    "type": "Lecture"
+  },
+  {
+    "day": "Wednesday",
+    "time": "1:00-2:00",
+    "subject": "ML",
+    "faculty": "BAO@ldce.ac.in",
+    "division": "B",
+    "room": "216B",
+    "type": "Lecture"
+  },
+  {
+    "day": "Wednesday",
+    "time": "2:00-3:00",
+    "subject": "AI",
+    "faculty": "CST@ldce.ac.in",
+    "division": "B",
+    "room": "216B",
+    "type": "Lecture"
+  },
+  {
+    "day": "Wednesday",
+    "time": "3:15-4:15",
+    "subject": "IS",
+    "faculty": "KMP@ldce.ac.in",
+    "division": "B",
+    "room": "216B",
+    "type": "Lecture"
+  },
+  {
+    "day": "Wednesday",
+    "time": "4:15-5:15",
+    "subject": "CD",
+    "faculty": "PDS@ldce.ac.in",
+    "division": "B",
+    "room": "216B",
+    "type": "Lecture"
+  },
+  {
+    "day": "Thursday",
+    "time": "11:30-12:30",
+    "subject": "ML",
+    "faculty": "PRD@ldce.ac.in",
+    "division": "B",
+    "room": "216B",
+    "type": "Lecture"
+  },
+  {
+    "day": "Thursday",
+    "time": "3:15-4:15",
+    "subject": "AI",
+    "faculty": "PVP@ldce.ac.in",
+    "division": "B",
+    "room": "216B",
+    "type": "Lecture"
+  },
+  {
+    "day": "Thursday",
+    "time": "4:15-5:15",
+    "subject": "ML",
+    "faculty": "BAO@ldce.ac.in",
+    "division": "B",
+    "room": "216B",
+    "type": "Lecture"
+  },
+  {
+    "day": "Friday",
+    "time": "11:30-12:30",
+    "subject": "CD",
+    "faculty": "PDS@ldce.ac.in",
+    "division": "B",
+    "room": "216B",
+    "type": "Lecture"
+  },
+  {
+    "day": "Friday",
+    "time": "1:00-2:00",
+    "subject": "CC",
+    "faculty": "TAC@ldce.ac.in",
+    "division": "B",
+    "room": "216B",
+    "type": "Lecture"
+  },
+  {
+    "day": "Friday",
+    "time": "2:00-3:00",
+    "subject": "IS",
+    "faculty": "SRM@ldce.ac.in",
+    "division": "B",
+    "room": "216B",
+    "type": "Lecture"
+  },
+  {
+    "day": "Friday",
+    "time": "3:15-4:15",
+    "subject": "IS",
+    "faculty": "KMP@ldce.ac.in",
+    "division": "B",
+    "room": "216B",
+    "type": "Lecture"
+  },
+  {
+    "day": "Friday",
+    "time": "4:15-5:15",
+    "subject": "AI",
+    "faculty": "CST@ldce.ac.in",
+    "division": "B",
+    "room": "216B",
+    "type": "Lecture"
+  },
+  {
+    "day": "Monday",
+    "time": "10:30-12:30",
+    "subject": "IS",
+    "faculty": "KMP@ldce.ac.in",
+    "division": "A",
+    "batch": "A1",
+    "room": "Lab-7",
+    "type": "Lab"
+  },
+  {
+    "day": "Monday",
+    "time": "10:30-12:30",
+    "subject": "AI",
+    "faculty": "CST@ldce.ac.in",
+    "division": "A",
+    "batch": "A2",
+    "room": "Lab-2",
+    "type": "Lab"
+  },
+  {
+    "day": "Monday",
+    "time": "10:30-12:30",
+    "subject": "DF",
+    "faculty": "HBP@ldce.ac.in",
+    "division": "A",
+    "batch": "A3",
+    "room": "Lab-3",
+    "type": "Lab"
+  },
+  {
+    "day": "Monday",
+    "time": "10:30-12:30",
+    "subject": "ML",
+    "faculty": "BAO@ldce.ac.in",
+    "division": "A",
+    "batch": "A4",
+    "room": "Lab-4",
+    "type": "Lab"
+  },
+  {
+    "day": "Tuesday",
+    "time": "10:30-12:30",
+    "subject": "DF",
+    "faculty": "HBP@ldce.ac.in",
+    "division": "A",
+    "batch": "A1",
+    "room": "Lab-4",
+    "type": "Lab"
+  },
+  {
+    "day": "Tuesday",
+    "time": "10:30-12:30",
+    "subject": "CD",
+    "faculty": "PVP@ldce.ac.in",
+    "division": "A",
+    "batch": "A2",
+    "room": "Lab-10",
+    "type": "Lab"
+  },
+  {
+    "day": "Tuesday",
+    "time": "10:30-12:30",
+    "subject": "ML",
+    "faculty": "BAO@ldce.ac.in",
+    "division": "A",
+    "batch": "A3",
+    "room": "Lab-3",
+    "type": "Lab"
+  },
+  {
+    "day": "Wednesday",
+    "time": "3:15-5:15",
+    "subject": "ML",
+    "faculty": "BAO@ldce.ac.in",
+    "division": "A",
+    "batch": "A1",
+    "room": "Lab-2",
+    "type": "Lab"
+  },
+  {
+    "day": "Wednesday",
+    "time": "3:15-5:15",
+    "subject": "CD",
+    "faculty": "PVP@ldce.ac.in",
+    "division": "A",
+    "batch": "A3",
+    "room": "Lab-10",
+    "type": "Lab"
+  },
+  {
+    "day": "Wednesday",
+    "time": "3:15-5:15",
+    "subject": "DF",
+    "faculty": "HBP@ldce.ac.in",
+    "division": "A",
+    "batch": "A4",
+    "room": "Lab-4",
+    "type": "Lab"
+  },
+  {
+    "day": "Thursday",
+    "time": "10:30-12:30",
+    "subject": "AI",
+    "faculty": "CST@ldce.ac.in",
+    "division": "A",
+    "batch": "A1",
+    "room": "Lab-2",
+    "type": "Lab"
+  },
+  {
+    "day": "Thursday",
+    "time": "10:30-12:30",
+    "subject": "DF",
+    "faculty": "AVS@ldce.ac.in",
+    "division": "A",
+    "batch": "A2",
+    "room": "Lab-7",
+    "type": "Lab"
+  },
+  {
+    "day": "Thursday",
+    "time": "10:30-12:30",
+    "subject": "IS",
+    "faculty": "KMP@ldce.ac.in",
+    "division": "A",
+    "batch": "A3",
+    "room": "Lab-9",
+    "type": "Lab"
+  },
+  {
+    "day": "Thursday",
+    "time": "10:30-12:30",
+    "subject": "AI",
+    "faculty": "PVP@ldce.ac.in",
+    "division": "A",
+    "batch": "A4",
+    "room": "Lab-4",
+    "type": "Lab"
+  },
+  {
+    "day": "Friday",
+    "time": "3:15-5:15",
+    "subject": "ML",
+    "faculty": "BAO@ldce.ac.in",
+    "division": "A",
+    "batch": "A2",
+    "room": "Lab-1",
+    "type": "Lab"
+  },
+  {
+    "day": "Friday",
+    "time": "3:15-5:15",
+    "subject": "CD",
+    "faculty": "PVP@ldce.ac.in",
+    "division": "A",
+    "batch": "A4",
+    "room": "Lab-10",
+    "type": "Lab"
+  },
+  {
+    "day": "Monday",
+    "time": "1:00-3:00",
+    "subject": "CD",
+    "faculty": "PDS@ldce.ac.in",
+    "division": "B",
+    "batch": "B1",
+    "room": "Lab-4",
+    "type": "Lab"
+  },
+  {
+    "day": "Monday",
+    "time": "1:00-3:00",
+    "subject": "IS",
+    "faculty": "SRM@ldce.ac.in",
+    "division": "B",
+    "batch": "B2",
+    "room": "Lab-5",
+    "type": "Lab"
+  },
+  {
+    "day": "Monday",
+    "time": "1:00-3:00",
+    "subject": "DF",
+    "faculty": "AVS@ldce.ac.in",
+    "division": "B",
+    "batch": "B3",
+    "room": "Lab-7",
+    "type": "Lab"
+  },
+  {
+    "day": "Monday",
+    "time": "3:15-5:15",
+    "subject": "AI",
+    "faculty": "PVP@ldce.ac.in",
+    "division": "B",
+    "batch": "B2",
+    "room": "Lab-10",
+    "type": "Lab"
+  },
+  {
+    "day": "Monday",
+    "time": "3:15-5:15",
+    "subject": "ML",
+    "faculty": "PRD@ldce.ac.in",
+    "division": "B",
+    "batch": "B3",
+    "room": "Lab-3",
+    "type": "Lab"
+  },
+  {
+    "day": "Monday",
+    "time": "3:15-5:15",
+    "subject": "DF",
+    "faculty": "AVS@ldce.ac.in",
+    "division": "B",
+    "batch": "B4",
+    "room": "Lab-7",
+    "type": "Lab"
+  },
+  {
+    "day": "Tuesday",
+    "time": "10:30-12:30",
+    "subject": "ML",
+    "faculty": "PRD@ldce.ac.in",
+    "division": "B",
+    "batch": "B1",
+    "room": "Lab-3",
+    "type": "Lab"
+  },
+  {
+    "day": "Tuesday",
+    "time": "10:30-12:30",
+    "subject": "CD",
+    "faculty": "PDS@ldce.ac.in",
+    "division": "B",
+    "batch": "B2",
+    "room": "Lab-5",
+    "type": "Lab"
+  },
+  {
+    "day": "Tuesday",
+    "time": "10:30-12:30",
+    "subject": "AI",
+    "faculty": "CST@ldce.ac.in",
+    "division": "B",
+    "batch": "B3",
+    "room": "Lab-2",
+    "type": "Lab"
+  },
+  {
+    "day": "Wednesday",
+    "time": "10:30-12:30",
+    "subject": "DF",
+    "faculty": "AVS@ldce.ac.in",
+    "division": "B",
+    "batch": "B1",
+    "room": "Lab-7",
+    "type": "Lab"
+  },
+  {
+    "day": "Wednesday",
+    "time": "10:30-12:30",
+    "subject": "DF",
+    "faculty": "HBP@ldce.ac.in",
+    "division": "B",
+    "batch": "B2",
+    "room": "Lab-4",
+    "type": "Lab"
+  },
+  {
+    "day": "Wednesday",
+    "time": "10:30-12:30",
+    "subject": "IS",
+    "faculty": "SRM@ldce.ac.in",
+    "division": "B",
+    "batch": "B3",
+    "room": "Lab-5",
+    "type": "Lab"
+  },
+  {
+    "day": "Wednesday",
+    "time": "10:30-12:30",
+    "subject": "CD",
+    "faculty": "TJR@ldce.ac.in",
+    "division": "B",
+    "batch": "B4",
+    "room": "Lab-6",
+    "type": "Lab"
+  },
+  {
+    "day": "Thursday",
+    "time": "1:00-3:00",
+    "subject": "CD",
+    "faculty": "TJR@ldce.ac.in",
+    "division": "B",
+    "batch": "B3",
+    "room": "Lab-1",
+    "type": "Lab"
+  },
+  {
+    "day": "Thursday",
+    "time": "1:00-3:00",
+    "subject": "AI",
+    "faculty": "CST@ldce.ac.in",
+    "division": "B",
+    "batch": "B1",
+    "room": "Lab-2",
+    "type": "Lab"
+  }
+]

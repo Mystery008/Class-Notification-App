@@ -1,0 +1,181 @@
+[
+  {
+    "username": "CST@ldce.ac.in",
+    "password": "faculty123",
+    "divisions": [
+      "A",
+      "B"
+    ],
+    "role": "faculty",
+    "subjects": [
+      "CC",
+      "AI"
+    ]
+  },
+  {
+    "username": "BAO@ldce.ac.in",
+    "password": "faculty456",
+    "divisions": [
+      "A",
+      "B"
+    ],
+    "role": "faculty",
+    "subjects": [
+      "ML"
+    ]
+  },
+  {
+    "username": "PVP@ldce.ac.in",
+    "password": "faculty789",
+    "divisions": [
+      "A",
+      "B"
+    ],
+    "role": "faculty",
+    "subjects": [
+      "CD",
+      "AI"
+    ]
+  },
+  {
+    "username": "TAC@ldce.ac.in",
+    "password": "faculty1011",
+    "divisions": [
+      "A",
+      "B"
+    ],
+    "role": "faculty",
+    "subjects": [
+      "CC"
+    ]
+  },
+  {
+    "username": "KMP@ldce.ac.in",
+    "password": "faculty1111",
+    "divisions": [
+      "A",
+      "B"
+    ],
+    "role": "faculty",
+    "subjects": [
+      "IS"
+    ]
+  },
+  {
+    "username": "PRD@ldce.ac.in",
+    "password": "faculty1112",
+    "divisions": [
+      "A",
+      "B"
+    ],
+    "role": "faculty",
+    "subjects": [
+      "ML"
+    ]
+  },
+  {
+    "username": "HBP@ldce.ac.in",
+    "password": "faculty1213",
+    "divisions": [
+      "A",
+      "B"
+    ],
+    "role": "faculty",
+    "subjects": [
+      "DF"
+    ]
+  },
+  {
+    "username": "PDS@ldce.ac.in",
+    "password": "faculty1415",
+    "divisions": [
+      "A",
+      "B"
+    ],
+    "role": "faculty",
+    "subjects": [
+      "CD"
+    ]
+  },
+  {
+    "username": "AVS@ldce.ac.in",
+    "password": "faculty1617",
+    "divisions": [
+      "A",
+      "B"
+    ],
+    "role": "faculty",
+    "subjects": [
+      "DF"
+    ]
+  },
+  {
+    "username": "SRM@ldce.ac.in",
+    "password": "faculty1819",
+    "divisions": [
+      "A",
+      "B"
+    ],
+    "role": "faculty",
+    "subjects": [
+      "IS"
+    ]
+  },
+  {
+    "username": "TJR@ldce.ac.in",
+    "password": "faculty2021",
+    "divisions": [
+      "A",
+      "B"
+    ],
+    "role": "faculty",
+    "subjects": [
+      "IS"
+    ]
+  },
+  {
+    "username": "nidhi.sem07@ldce.ac.in",
+    "password": "student123",
+    "role": "student",
+    "division": "A",
+    "subjects": [
+      "All"
+    ]
+  },
+  {
+    "username": "khushi.sem07@ldce.ac.in",
+    "password": "student456",
+    "role": "student",
+    "division": "A",
+    "subjects": [
+      "All"
+    ]
+  },
+  {
+    "username": "krishna.sem07@ldce.ac.in",
+    "password": "student789",
+    "role": "student",
+    "division": "B",
+    "subjects": [
+      "All"
+    ]
+  },
+  {
+    "username": "admin@ldce.ac.in",
+    "password": "admin123",
+    "role": "admin"
+  },
+  {
+    "username": "MKS@ldce.ac.in",
+    "password": "faculty1111",
+    "role": "faculty",
+    "subjects": [
+      "AI",
+      "ML"
+    ],
+    "divisions": [
+      "A",
+      "B"
+    ]
+  }
+]
