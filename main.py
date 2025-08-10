@@ -4,7 +4,7 @@ from supabase_setup import init_supabase
 # --------------------------
 # App Configuration
 # --------------------------
-st.set_page_config(page_title="📚 Class Tracker App", layout="centered")
+st.set_page_config(page_title="Class Tracker App", layout="centered")
 
 # --------------------------
 # Global Font Styling
@@ -30,7 +30,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.title("📚 Class Schedule & Notification Tracker")
+st.title("Class Schedule & Notification Tracker")
 
 # --------------------------
 # Supabase Configuration
@@ -89,14 +89,14 @@ else:
             st.rerun()
 
     st.markdown("---")
-    st.markdown("### 🎯 Welcome to the **Class Tracker System**")
+    st.markdown("### Welcome to the **Class Tracker System**")
     st.markdown("Use the **sidebar** to access available tools based on your role.")
 
     if user["role"] == "admin":
         st.info("⚙️ As an Admin, you can manage faculty from the **Admin Panel**.")
 
     st.markdown("""
-    #### 🔍 Features Available:
+    #### Features Available:
     - 📅 **Timetable View**: View or filter your weekly class schedule  
     - 📣 **Notifications**: Submit/view class status and responses  
     - 📊 **Monthly Report**: Visualize per-subject statistics (faculty only)  
