@@ -149,7 +149,7 @@ elif user["role"] == "faculty":
                         key=f"preset_{idx}"
                     )
                     custom_msg = st.text_input(
-                        "✏️ Or type custom response",
+                        " Or Type Custom Response",
                         key=f"custom_input_{idx}"
                     )
 
