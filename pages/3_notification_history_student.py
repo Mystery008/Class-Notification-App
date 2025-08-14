@@ -140,23 +140,34 @@ elif user["role"] == "faculty":
             if isinstance(response_data, dict) and "message" in response_data:
                 st.info(f"You responded: {response_data['message']}")
             else:
-                col1, col2, col3, col4 = st.columns(4)
-                if col1.button("I'm coming", key=f"coming_{idx}"):
-                    supabase.table("notifications").update({
-                        "response": {"by": user["username"], "message": "I'm coming"}
-                    }).eq("timestamp", n["timestamp"]).execute()
-                    st.rerun()
-                if col2.button("I'm unavailable", key=f"unavail_{idx}"):
-                    supabase.table("notifications").update({
-                        "response": {"by": user["username"], "message": "I'm unavailable"}
-                    }).eq("timestamp", n["timestamp"]).execute()
-                    st.rerun()
-                if col3.button("Contact Coordinator", key=f"coord_{idx}"):
-                    supabase.table("notifications").update({
-                        "response": {"by": user["username"], "message": "Contact Class Coordinator"}
-                    }).eq("timestamp", n["timestamp"]).execute()
-                    st.rerun()
-                if col4.button("🗑️ Delete", key=f"delete_{idx}"):
+                col1, col2 = st.columns([2, 1])
+
+                with col1:
+                    preset_choice = st.selectbox(
+                        f"📋 Choose Response (or leave empty)",
+                        ["", "I'm coming", "I'm unavailable", "Contact Class Coordinator"],
+                        key=f"preset_{idx}"
+                    )
+                    custom_msg = st.text_input(
+                        "✏️ Or type custom response",
+                        key=f"custom_input_{idx}"
+                    )
+
+                with col2:
+                    if st.button("✅ Send Response", key=f"send_{idx}"):
+                        final_msg = custom_msg.strip() if custom_msg.strip() else preset_choice.strip()
+
+                        if not final_msg:
+                            st.warning("Please choose a preset or type a custom message before sending.")
+                        else:
+                            supabase.table("notifications").update({
+                                "response": {"by": user["username"], "message": final_msg}
+                            }).eq("timestamp", n["timestamp"]).execute()
+                            st.success("📨 Response sent successfully!")
+                            st.rerun()
+
+                # Optional Delete Button
+                if st.button("🗑️ Delete", key=f"delete_{idx}"):
                     supabase.table("notifications").delete().eq("timestamp", n["timestamp"]).execute()
                     st.rerun()
 else:
